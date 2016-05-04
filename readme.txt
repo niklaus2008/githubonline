@@ -1,6 +1,6 @@
 study python
 stupid boss
-study programe
+I study programe
 study C++
 1
 2
